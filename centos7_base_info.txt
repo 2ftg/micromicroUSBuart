@@ -1,0 +1,7 @@
+CentOS 7 base 
+
+root
+juurespotaatti
+
+kayttaja
+ammattilainenjoo
